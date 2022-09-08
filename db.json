@@ -1,0 +1,22 @@
+{
+  "WORKS": [
+    {
+      "id": 1,
+      "text": "Seminar session",
+      "day": "AUG 6th at 9:30am",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "English session",
+      "day": "AUG 10th at 7:30am",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Feed back session",
+      "day": "AUG 5th at 4:00am",
+      "reminder": true
+    }
+  ]
+}
